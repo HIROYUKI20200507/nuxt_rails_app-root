@@ -1,7 +1,6 @@
-[submodule "frontend"]
-	path = frontend
-	url = ./frontend
-
 [submodule "api"]
-	path = api
-	url = ./api
+  path = api
+  url = https://github.com/HIROYUKI20200507/nuxt_rails_app-api
+[submodule "frontend"]
+  path = frontend
+  url = https://github.com/HIROYUKI20200507/nuxt_rails_app-front
